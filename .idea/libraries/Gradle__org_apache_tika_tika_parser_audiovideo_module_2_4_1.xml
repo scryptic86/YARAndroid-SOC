@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tika:tika-parser-audiovideo-module:2.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.tika" artifactId="tika-parser-audiovideo-module" version="2.4.1" baseVersion="2.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-audiovideo-module/2.4.1/231484a3297c7f7f1f546cc5a70c9dd35c9e6976/tika-parser-audiovideo-module-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-audiovideo-module/2.4.1/b1353100b59b7ae2539393c57878fe9efa62eed0/tika-parser-audiovideo-module-2.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-audiovideo-module/2.4.1/964d06fd82516b614e72a0a8ba8f58a8799fa7c8/tika-parser-audiovideo-module-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.pdfbox:xmpbox:2.0.26" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.pdfbox" artifactId="xmpbox" version="2.0.26" baseVersion="2.0.26" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/xmpbox/2.0.26/7ca4ee67fd06f822467daa08749ba3c2874cf44e/xmpbox-2.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/xmpbox/2.0.26/517ad2cad462e6f726c0644dad32a05d17a7f32c/xmpbox-2.0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/xmpbox/2.0.26/c5c20a9326c741dff4c59ccd8e7a64202beef3d0/xmpbox-2.0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

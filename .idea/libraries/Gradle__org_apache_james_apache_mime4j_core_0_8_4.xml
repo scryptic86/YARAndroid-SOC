@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.james:apache-mime4j-core:0.8.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.james" artifactId="apache-mime4j-core" version="0.8.4" baseVersion="0.8.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.james/apache-mime4j-core/0.8.4/a7e552628c6587bdd1e2036045f1e06c4d513e32/apache-mime4j-core-0.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.james/apache-mime4j-core/0.8.4/1f1ffa19183b59dc7ed64d25aadee854421ec9af/apache-mime4j-core-0.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

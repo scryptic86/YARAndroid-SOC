@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tika:tika-parser-font-module:2.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.tika" artifactId="tika-parser-font-module" version="2.4.1" baseVersion="2.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-font-module/2.4.1/684d1a3aa272afa25eec9cf6fa32286d11753283/tika-parser-font-module-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-font-module/2.4.1/309052a24eea8dc05988b3b9564de49ac0cf1523/tika-parser-font-module-2.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-font-module/2.4.1/2d8a0aa13a25e5b1ca99e94007e995dfeb552d73/tika-parser-font-module-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

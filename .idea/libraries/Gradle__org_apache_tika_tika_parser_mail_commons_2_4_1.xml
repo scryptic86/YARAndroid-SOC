@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tika:tika-parser-mail-commons:2.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.tika" artifactId="tika-parser-mail-commons" version="2.4.1" baseVersion="2.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-mail-commons/2.4.1/f8ecd966b64c9b2db738f0ba64c73e73838aa3/tika-parser-mail-commons-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-mail-commons/2.4.1/e9484cf578507f8807272bc4d83eb68e480370d9/tika-parser-mail-commons-2.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-mail-commons/2.4.1/ac3bf0170f8a33481ab4394b761eeb5e5e202e95/tika-parser-mail-commons-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.gagravarr:vorbis-java-core:0.8" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.gagravarr" artifactId="vorbis-java-core" version="0.8" baseVersion="0.8" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gagravarr/vorbis-java-core/0.8/7e9937c2575cda2e3fc116415117c74f23e43fa6/vorbis-java-core-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gagravarr/vorbis-java-core/0.8/d090d204cc9c7232b4974daa61eaf88c280f0cda/vorbis-java-core-0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gagravarr/vorbis-java-core/0.8/4a20b54b3f51be036a3ddafb20a7bb1a37ce3c8d/vorbis-java-core-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rometools:rome:1.18.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.rometools" artifactId="rome" version="1.18.0" baseVersion="1.18.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rometools/rome/1.18.0/bdc2933175bb9d92b41e4ace771f645f524d75d3/rome-1.18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rometools/rome/1.18.0/4312179b45b6b19d2722bfb6cb2729b3007affb1/rome-1.18.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rometools/rome/1.18.0/c566ae90ca645cda135d756ecc6cef49e9f40727/rome-1.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

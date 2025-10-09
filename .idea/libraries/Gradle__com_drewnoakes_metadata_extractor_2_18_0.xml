@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.drewnoakes:metadata-extractor:2.18.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.drewnoakes" artifactId="metadata-extractor" version="2.18.0" baseVersion="2.18.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.18.0/fa9fd43a28b10333108c603819810d5176d2b092/metadata-extractor-2.18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.18.0/5ff22b24eba98047d0f4719a347d746912c621d9/metadata-extractor-2.18.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.18.0/a0e48eb9e783cbc66354a315c6f0edbb563fb374/metadata-extractor-2.18.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

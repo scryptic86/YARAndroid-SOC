@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.pdfbox:pdfbox-tools:2.0.26" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.pdfbox" artifactId="pdfbox-tools" version="2.0.26" baseVersion="2.0.26" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox-tools/2.0.26/c8a812df7d025dd39c84bd88500a3ad2c2fca8f3/pdfbox-tools-2.0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox-tools/2.0.26/e7140d6b9ed548aecfafaf158d02208c812be976/pdfbox-tools-2.0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox-tools/2.0.26/ada4e263260d0ee98150fe37d53a7c7fb6390e7b/pdfbox-tools-2.0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

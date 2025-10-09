@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.epam:parso:2.0.14" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.epam" artifactId="parso" version="2.0.14" baseVersion="2.0.14" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.epam/parso/2.0.14/a02ea1b198c410a105d261efd2d7043739aecd8e/parso-2.0.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.epam/parso/2.0.14/f3824f43718918dd96f8a612973ca13e6f8a27fb/parso-2.0.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.epam/parso/2.0.14/523a21f49ca3bebd09bca2a3c2299ac35c23c3b6/parso-2.0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

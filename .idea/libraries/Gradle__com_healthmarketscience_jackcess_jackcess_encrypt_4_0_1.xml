@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.healthmarketscience.jackcess:jackcess-encrypt:4.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.healthmarketscience.jackcess" artifactId="jackcess-encrypt" version="4.0.1" baseVersion="4.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess-encrypt/4.0.1/2fbb076c291767197b5b8202bfebdcd4b4a7199e/jackcess-encrypt-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess-encrypt/4.0.1/53eea3a370529a1e2751090930f9f7c20d3fbf73/jackcess-encrypt-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess-encrypt/4.0.1/51a3994fc5761bdd12e7a850fbfc0ec8666b08fb/jackcess-encrypt-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

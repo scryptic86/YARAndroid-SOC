@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: xerces:xercesImpl:2.12.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="xerces" artifactId="xercesImpl" version="2.12.2" baseVersion="2.12.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.12.2/f051f988aa2c9b4d25d05f95742ab0cc3ed789e2/xercesImpl-2.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.12.2/a427930f291ddd79933f72c9578d58109859ffe2/xercesImpl-2.12.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xerces/xercesImpl/2.12.2/7d743949710f2d9cda30a80356ad5efcbdf4239a/xercesImpl-2.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

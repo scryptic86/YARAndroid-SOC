@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.virtuald:curvesapi:1.07" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.virtuald" artifactId="curvesapi" version="1.07" baseVersion="1.07" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.virtuald/curvesapi/1.07/863654849995f9d4f0ed2ed1a3870da3a108473c/curvesapi-1.07.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.virtuald/curvesapi/1.07/23d730d3d1a06ec8038aa0ec553b13cb0c21e63f/curvesapi-1.07-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.virtuald/curvesapi/1.07/6c71d0b9162233d7651d9abead7210ea4f9e62b7/curvesapi-1.07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

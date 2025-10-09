@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tukaani:xz:1.9" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.tukaani" artifactId="xz" version="1.9" baseVersion="1.9" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.9/1ea4bec1a921180164852c65006d928617bd2caf/xz-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.9/7d4481b30c4232529ac28a8ca9858cd916a0fafe/xz-1.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.9/802ffc2e4237e0c76999e293a97171de020d659f/xz-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

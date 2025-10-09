@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.netpreserve:jwarc:0.18.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.netpreserve" artifactId="jwarc" version="0.18.1" baseVersion="0.18.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.netpreserve/jwarc/0.18.1/90dcb828bb22bb8ee623917fdfcf7e5c668e70d2/jwarc-0.18.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.netpreserve/jwarc/0.18.1/86d8312650ebc5fbe37c2407aa94be1c5a3aded1/jwarc-0.18.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.netpreserve/jwarc/0.18.1/d55d60001ce5dfe1d8d019ce075cedc0a37dc82/jwarc-0.18.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

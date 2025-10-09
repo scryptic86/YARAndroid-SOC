@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tika:tika-parser-digest-commons:2.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.tika" artifactId="tika-parser-digest-commons" version="2.4.1" baseVersion="2.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-digest-commons/2.4.1/896d667a9b144b71b0ea08df39d930aedbf45c11/tika-parser-digest-commons-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-digest-commons/2.4.1/34463e4261b96c775a221357ba26cabe6c5fbab9/tika-parser-digest-commons-2.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-digest-commons/2.4.1/cb6b9ec51084cf51802331764d535d9dba95c34f/tika-parser-digest-commons-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

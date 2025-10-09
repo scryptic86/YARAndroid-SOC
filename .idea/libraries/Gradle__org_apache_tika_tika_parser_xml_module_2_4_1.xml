@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.tika:tika-parser-xml-module:2.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.tika" artifactId="tika-parser-xml-module" version="2.4.1" baseVersion="2.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-xml-module/2.4.1/ded9172747ed3862bead597d376ce6200712e399/tika-parser-xml-module-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-xml-module/2.4.1/57bd2dd4a2de47934b9f4301d30ce761a857c400/tika-parser-xml-module-2.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-parser-xml-module/2.4.1/b4f3275ebe42ed038255c931c8eedfc1addc63c9/tika-parser-xml-module-2.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

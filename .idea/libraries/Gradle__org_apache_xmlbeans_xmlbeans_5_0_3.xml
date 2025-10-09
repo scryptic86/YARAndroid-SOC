@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.xmlbeans:xmlbeans:5.0.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.xmlbeans" artifactId="xmlbeans" version="5.0.3" baseVersion="5.0.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/5.0.3/e1ef1382ae9dfb2438b82b6dd575566355c2f30f/xmlbeans-5.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/5.0.3/5e66632424219225579738fe6128602041b3c1c2/xmlbeans-5.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/5.0.3/109aef31c516b0485c92e3554b39ed18cebae523/xmlbeans-5.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

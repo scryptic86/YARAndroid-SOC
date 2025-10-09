@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.junrar:junrar:7.5.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.junrar" artifactId="junrar" version="7.5.2" baseVersion="7.5.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.junrar/junrar/7.5.2/c07583bb5f17e0eaf852955f94f809faf4c33680/junrar-7.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.junrar/junrar/7.5.2/2a2592d18844472474374ce8217fe804bb4e0ba1/junrar-7.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.junrar/junrar/7.5.2/ef1b6d90ea4b048aff1796c41be85b8d1e308abc/junrar-7.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

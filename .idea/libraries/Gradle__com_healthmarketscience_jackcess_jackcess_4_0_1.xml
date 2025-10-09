@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.healthmarketscience.jackcess:jackcess:4.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.healthmarketscience.jackcess" artifactId="jackcess" version="4.0.1" baseVersion="4.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess/4.0.1/e9953ac607c1d85647d6bc364579a871ef069441/jackcess-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess/4.0.1/4142ccdfd84d06cc7b699d93aa32cd9bf754a199/jackcess-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.healthmarketscience.jackcess/jackcess/4.0.1/aaac4b4c2bd1958cddb61cf0b2e862db75ef0c5f/jackcess-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
