@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.netsec.clamav.app-mergeDebugResources-27:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\honeybucket\\.gradle\\caches\\8.14.2\\transforms\\ecd75b28a6edccd30c984c6975b1bce6\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

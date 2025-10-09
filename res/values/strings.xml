@@ -7,5 +7,8 @@
     <string name="fileSelectorButton">Click to Select File</string>
     <string name="uploadButton">Click to Upload File</string>
     <string name="downloadButton">Click to View Results</string>
+    <string name="scanNowButton">Scan Now</string>
+    <string name="scanHistoryTitle">Scan History</string>
+    <string name="viewReport">View Report</string>
 
 </resources>

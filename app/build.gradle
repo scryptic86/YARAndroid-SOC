@@ -1,0 +1,51 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    compileSdk 34
+    // Specify the package namespace for the module (required by recent AGP)
+    namespace "com.netsec.clamav"
+
+    defaultConfig {
+        applicationId "com.netsec.clamav"
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    sourceSets {
+        main {
+            java.srcDirs = ['src']
+            // Include both module-local res and the project top-level res
+            res.srcDirs = ['res', '../res']
+            manifest.srcFile '../AndroidManifest.xml'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-project.txt'
+        }
+    }
+
+    // Enable view binding
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    // Use AndroidX legacy support to replace old android-support-v4.jar
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}

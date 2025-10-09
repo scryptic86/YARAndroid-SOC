@@ -1,0 +1,28 @@
+{
+    // Prefer the system JAVA_HOME environment variable for Java tools.
+    // Ensure JAVA_HOME is set in your system environment. VS Code will expand ${env:JAVA_HOME}.
+    "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-25",
+    "maven.terminal.useJavaHome": true,
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-25",
+
+    // Recommend runtimes for the Java extension - adjust paths if you want explicit JDKs.
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-25",
+            "path": "C:\\Program Files\\Java\\jdk-25",
+            "default": true
+        },
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Program Files\\Java\\jdk-21"
+        },
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Program Files\\Java\\jdk-17"
+        },
+        {
+            "name": "JavaSE-11",
+            "path": "C:\\Program Files\\Java\\jdk-11"
+        }
+    ]
+}

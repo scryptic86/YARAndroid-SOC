@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\drawable-hdpi_container_background.png.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\drawable-hdpi\\container_background.png"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\xml_filepaths.xml.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "com.netsec.clamav.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.netsec.clamav.app-ClamScan-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\menu_main.xml.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-merged_res-29:\\drawable-hdpi_btn_white_matte.9.png.flat",
+        "source": "C:\\Users\\honeybucket\\.gradle\\daemon\\8.14.2\\com.netsec.clamav.app-ClamScan-32:\\drawable-hdpi\\btn_white_matte.9.png"
+    }
+]

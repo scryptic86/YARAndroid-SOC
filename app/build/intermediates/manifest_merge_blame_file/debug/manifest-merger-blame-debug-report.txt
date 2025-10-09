@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.netsec.clamav"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:6:5-8:41
+8        android:minSdkVersion="21"
+8-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:7:9-35
+9        android:targetSdkVersion="34" />
+9-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:8:9-38
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:10:5-67
+11-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:10:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\d3725240cb3f61a1b3893c34285903e5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.netsec.clamav.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\d3725240cb3f61a1b3893c34285903e5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\d3725240cb3f61a1b3893c34285903e5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.netsec.clamav.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Use app-specific external files; no WRITE_EXTERNAL_STORAGE required for modern Android targets -->
+17-->[androidx.core:core:1.9.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\d3725240cb3f61a1b3893c34285903e5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\d3725240cb3f61a1b3893c34285903e5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18    <application
+18-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:13:5-39:19
+19        android:allowBackup="true"
+19-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:14:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.9.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\d3725240cb3f61a1b3893c34285903e5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="true"
+23        android:icon="@drawable/ic_launcher"
+23-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:15:9-45
+24        android:label="@string/app_name"
+24-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:16:9-41
+25        android:theme="@style/AppTheme"
+25-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:17:9-40
+26        android:usesCleartextTraffic="true" >
+26-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:18:9-44
+27        <activity
+27-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:19:9-28:20
+28            android:name="com.netsec.clamav.MainActivity"
+28-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:20:13-58
+29            android:exported="true"
+29-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:22:13-36
+30            android:label="@string/app_name" >
+30-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:21:13-45
+31            <intent-filter>
+31-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:23:13-27:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:24:17-69
+32-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:24:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:26:17-77
+34-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:26:27-74
+35            </intent-filter>
+36        </activity>
+37        <!-- FileProvider for sharing files with other apps (used to open downloaded scan results) -->
+38        <provider
+39            android:name="androidx.core.content.FileProvider"
+39-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:31:13-62
+40            android:authorities="com.netsec.clamav.fileprovider"
+40-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:32:13-64
+41            android:exported="false"
+41-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:33:13-37
+42            android:grantUriPermissions="true" >
+42-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:34:13-47
+43            <meta-data
+43-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:35:13-37:53
+44                android:name="androidx.core.content.FileProvider"
+44-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:36:17-66
+45                android:resource="@xml/filepaths" />
+45-->C:\Users\honeybucket\GitHub\ClamScan\AndroidManifest.xml:37:17-50
+46        </provider>
+47        <provider
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\6c760d7aed77a3f96d24ab89aa5f87b9\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\6c760d7aed77a3f96d24ab89aa5f87b9\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+49            android:authorities="com.netsec.clamav.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\6c760d7aed77a3f96d24ab89aa5f87b9\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\6c760d7aed77a3f96d24ab89aa5f87b9\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\6c760d7aed77a3f96d24ab89aa5f87b9\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\6c760d7aed77a3f96d24ab89aa5f87b9\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\6c760d7aed77a3f96d24ab89aa5f87b9\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\8799ba199e2e39f43d3d87e83734a210\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\8799ba199e2e39f43d3d87e83734a210\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\honeybucket\.gradle\caches\8.14.2\transforms\8799ba199e2e39f43d3d87e83734a210\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>

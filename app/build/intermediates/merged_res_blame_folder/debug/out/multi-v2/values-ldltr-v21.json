@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.netsec.clamav.app-mergeDebugResources-27:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\honeybucket\\.gradle\\caches\\8.14.2\\transforms\\ecd75b28a6edccd30c984c6975b1bce6\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

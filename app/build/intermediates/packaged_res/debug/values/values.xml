@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_blue">#1E88E5</color>
+    <color name="md_theme_background">#121212</color>
+    <color name="md_theme_error">#CF6679</color>
+    <color name="md_theme_onBackground">#FFFFFF</color>
+    <color name="md_theme_onError">#000000</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_onSecondary">#000000</color>
+    <color name="md_theme_onSurface">#FFFFFF</color>
+    <color name="md_theme_primary">#1E88E5</color>
+    <color name="md_theme_secondary">#03DAC6</color>
+    <color name="md_theme_surface">#121212</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ClamAV</string>
+    <string name="downloadButton">Click to View Results</string>
+    <string name="fileSelectorButton">Click to Select File</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scanHistoryTitle">Scan History</string>
+    <string name="scanNowButton">Scan Now</string>
+    <string name="uploadButton">Click to Upload File</string>
+    <string name="viewReport">View Report</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:windowBackground">@color/md_theme_background</item>
+        <item name="android:textColor">@color/md_theme_onBackground</item>
+        
+        <item name="materialButtonStyle">@style/Widget.MaterialComponents.Button</item>
+    </style>
+</resources>
